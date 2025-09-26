@@ -36,6 +36,7 @@
 ### Addition
 ```
 > Addition
+
 [*] first term intizer [defult : 1] :6
 [*] first term variable [required]  :x
 [*] select what do you want  [+, -, *] :+
@@ -46,7 +47,8 @@
 ```
 ### Substraction 
 ```
-> Substraction 
+> Substraction
+
 [*] first term intizer [defult : 1] :8
 [*] first term variable [required]  :x
 [*] select what do you want  [+, -, *] : -
@@ -57,7 +59,8 @@
 ```
 ### Multiplication 
 ```
-> Multiplication 
+> Multiplication
+
 [*] first term intizer [defult : 1] :6
 [*] first term variable [required]  :x
 [*] select what do you want  [+, -, *] :+
@@ -68,7 +71,8 @@
 ```
 ### Division 
 ```
-> Division 
+> Division
+
 cannot be perform division 
 ```
 
