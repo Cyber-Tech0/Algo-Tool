@@ -21,30 +21,77 @@
 - **automatic process**
 - with letest version
 
+## Algebric Calculation :
+### How to use this tool 
+```
+      how to use this tool.
+      Example: 2x + 3x = 5x
+
+[*] first term is 2x
+[*] second term is 3x
+[*] 2~ first term intizer
+[*] x first term variable
+[*] 3 second intizer
+[*] x second term variable
+```
+
+### Addition
+```
+[*] first term intizer [defult : 1] :6
+[*] first term variable [required]  :x
+[*] select what do you want  [+, -, *] :+
+[*] second term intizer [defult : 1] : 9 [*] second term variable [required] : x
+
+[*]  result :   15x
+```
+### Substraction 
+```
+[*] first term intizer [defult : 1] :8
+[*] first term variable [required]  :x
+[*] select what do you want  [+, -, *] : -
+[*] second term intizer [defult : 1] : 2
+[*] second term variable [required] : x
+
+[*]  result :   6x
+```
+### Multiplication 
+```
+[*] first term intizer [defult : 1] :6
+[*] first term variable [required]  :x
+[*] select what do you want  [+, -, *] :+
+[*] second term intizer [defult : 1] : 3
+[*] second term variable [required] : x
+
+[*]  result :   18x²
+```
+### Division 
+```
+cannot be perform division 
+```
 
 ## Installation 
 - just update and upgrade your Termux
-```powershell
+```
 apt update && apt upgrade -y
 ```
 - should be install git pakage before installing this tool
-```powershell
+```
 pkg install git -y
 ```
 - just clone this github repository 
-```powershell
+```
 git clone https://github.com/Cyber-Tech0/Algo-Tool
 ```
 - just enter in tool dictionary 
-```powershell
+```
 cd Algo-Tool
 ```
 - and give it executable permission
-```powershell
+```
 chmod +x algo.sh
 ```
 - for run this tool and setup kali nethunter
-```powershell
+```
 ./algo.sh
 ```
 - On first launch, It'll install the dependencies and that's it is installed.
@@ -55,7 +102,7 @@ chmod +x algo.sh
 
 - one line commands past on your Termux and just press hit 🎯 enter.
 
-```powershell
+```
 apt update && apt upgrade -y && pkg install git -y && git clone https://github.com/Cyber-Tech0/Algo-Tool && cd Algo-Tool && chmod +x algo.sh && ./algo.sh
 ```
 
