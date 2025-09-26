@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
 
-#make desije and banner
+#make desine and banner
 echo ""
 echo -e "\e[35m Welcome to khalidx456 repo.\e[0m"
 echo -e "\e[34m this tool made for algebric calculation\e[0m"
