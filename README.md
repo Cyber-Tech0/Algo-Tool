@@ -1,4 +1,4 @@
-<img src="assets/banner_image.jpg" height="120px" width="800px"/>
+<img src="assets/banner_image.jpg" height="105px" width="800px"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/author-Khalidx456-blue" />
