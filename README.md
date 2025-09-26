@@ -3,14 +3,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/author-Khalidx456-blue" />
   <img src="https://img.shields.io/badge/language-shell-green" />
-  <img src="https://img.shields.io/badge/tool-kali setup-red" />
+  <img src="https://img.shields.io/badge/tool-Algo-Tool-red" />
 
 </p>
-<p align="center"><b>A beginners friendly, Automated tool</b></p>
+<p align="center"><b>A beginners friendly, funny algebraic calculator</b></p>
 
 
 > [!Warning]
-> This tool is intended for legal security testing and educational purposes only. Unauthorized use of Kali Linux or its tools is prohibited and may be illegal. Kali Linux is a penetration testing and ethical hacking platform intended only for legal and authorized security testing. The tools and techniques provided by Kali Linux should never be used to attack or access networks, systems, or devices without explicit permission from the owner. Misuse of Kali Linux may violate laws and regulations and can lead to criminal prosecution. Users are solely responsible for their actions. The developers, maintainers, and distributors of Kali Linux are not liable for any damage or legal consequences resulting from unauthorized use.
+> This tool is intended for legal security testing and educational purposes only. Unauthorized use of Algo Tool or its tools is prohibited and may be illegal. users should always be cautious when running shell scripts. A shell script can contain powerful commands that may delete files, modify system settings, or expose sensitive data if written with harmful instructions. Before executing any script, especially one downloaded from the internet, it is important to open and read its content to ensure it only performs safe actions. Running unknown or unverified shell programs without checking can put the system at risk.
 
 
 
@@ -31,30 +31,30 @@ apt update && apt upgrade -y
 ```powershell
 pkg install git -y
 ```
-- just clone this github repository 🔥
+- just clone this github repository 
 ```powershell
-git clone https://github.com/Cyber-Tech0/Kali-Setup
+git clone https://github.com/Cyber-Tech0/Algo-Tool
 ```
 - just enter in tool dictionary 
 ```powershell
-cd Kali-Setup
+cd Algo-Tool
 ```
 - and give it executable permission
 ```powershell
-chmod +x kali-setup.sh
+chmod +x algo.sh
 ```
 - for run this tool and setup kali nethunter
 ```powershell
-./kali-setup.sh
+./algo.sh
 ```
 - On first launch, It'll install the dependencies and that's it is installed.
 
 ## Installation (one line)
 > [!Tip]
-> - if you want to setup 📐 **kali nethunter** in your Android. but you don't know terminal commands then you can copy and paste this commands on your terminal and **follow given below steps.**
+> - if you want to setup 📐 **Algo Tool** in your Android. but you don't know terminal commands then you can copy and paste this commands on your terminal and **follow given below steps.**
 
 - one line commands past on your Termux and just press hit 🎯 enter.
 
 ```powershell
-apt update && apt upgrade -y && pkg install git -y && git clone https://github.com/Cyber-Tech0/Kali-Setup && cd Kali-Setup && chmod +x kali-setup.sh && ./kali-setup.sh
+apt update && apt upgrade -y && pkg install git -y && git clone https://github.com/Cyber-Tech0/Algo-Tool && cd Algo-Tool && chmod +x algo.sh && ./algo.sh
 ```
