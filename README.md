@@ -58,3 +58,20 @@ chmod +x algo.sh
 ```powershell
 apt update && apt upgrade -y && pkg install git -y && git clone https://github.com/Cyber-Tech0/Algo-Tool && cd Algo-Tool && chmod +x algo.sh && ./algo.sh
 ```
+
+### Termux Commands
+> [!NOTE]
+> if you don't know about Termux commands. then first of all you want to learn termux commands. if you are are interested then you can download PDF file and easily learn termux commands. [PDF download](https://drive.google.com/file/d/1kYllkvP2s27dxKE5QCRPkA3hNc5kGS1l/view?usp=drivesdk)
+
+
+### open in cloud shell
+<a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/Cyber-Tech0/Algo-Tool.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
+
+<p></p>
+
+<p align="center"><b>Testing on Terminal (on termux CLI)</b></p>
+
+### Algo Tool Interface
+<img src="assets/user_interface."></img>
+
+<p></p>
