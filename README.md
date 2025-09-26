@@ -1,9 +1,9 @@
-<img src="Asset/logo-img.png" height="100px" width="600px"/>
+<img src="assets/banner_image.jpg" height="120px" width="800px"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/author-Khalidx456-blue" />
   <img src="https://img.shields.io/badge/language-shell-green" />
-  <img src="https://img.shields.io/badge/tool-Algo-Tool-red" />
+  <img src="https://img.shields.io/badge/tool-Algo Tool-red" />
 
 </p>
 <p align="center"><b>A beginners friendly, funny algebraic calculator</b></p>
