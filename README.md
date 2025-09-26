@@ -29,10 +29,10 @@
 
 [*] first term is 2x
 [*] second term is 3x
-[*] 2~ first term intizer
-[*] x first term variable
-[*] 3 second intizer
-[*] x second term variable
+[*] 2 ~ first term intizer
+[*] x ~ first term variable
+[*] 3 ~ second intizer
+[*] x ~ second term variable
 ```
 
 ### Addition
