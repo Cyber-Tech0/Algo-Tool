@@ -24,11 +24,9 @@
 ## Algebric Calculation :
 ### How to use this tool 
 ```
-      how to use this tool.
-      Example: 2x + 3x = 5x
+> how to use this tool.
+> Example: 2x + 3x = 5x
 
-[*] first term is 2x
-[*] second term is 3x
 [*] 2 ~ first term intizer
 [*] x ~ first term variable
 [*] 3 ~ second intizer
@@ -37,15 +35,18 @@
 
 ### Addition
 ```
+> Addition
 [*] first term intizer [defult : 1] :6
 [*] first term variable [required]  :x
 [*] select what do you want  [+, -, *] :+
-[*] second term intizer [defult : 1] : 9 [*] second term variable [required] : x
+[*] second term intizer [defult : 1] : 9
+[*] second term variable [required] : x
 
 [*]  result :   15x
 ```
 ### Substraction 
 ```
+> Substraction 
 [*] first term intizer [defult : 1] :8
 [*] first term variable [required]  :x
 [*] select what do you want  [+, -, *] : -
@@ -56,6 +57,7 @@
 ```
 ### Multiplication 
 ```
+> Multiplication 
 [*] first term intizer [defult : 1] :6
 [*] first term variable [required]  :x
 [*] select what do you want  [+, -, *] :+
@@ -66,6 +68,7 @@
 ```
 ### Division 
 ```
+> Division 
 cannot be perform division 
 ```
 
