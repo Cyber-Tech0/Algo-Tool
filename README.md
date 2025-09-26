@@ -72,6 +72,6 @@ apt update && apt upgrade -y && pkg install git -y && git clone https://github.c
 <p align="center"><b>Testing on Terminal (on termux CLI)</b></p>
 
 ### Algo Tool Interface
-<img src="assets/user_interface."></img>
+<img src="assets/user_interface.png"></img>
 
 <p></p>
